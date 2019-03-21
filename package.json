@@ -10,7 +10,7 @@
   "dependencies": {
     "jest-mock": "^24.5.0",
     "jest-util": "^24.5.0",
-    "jsdom": "^14.0.0"
+    "jsdom": "https://github.com/btoo/jsdom"
   },
   "scripts": {
     "test": "jest",
